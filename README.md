@@ -1,2 +1,2 @@
 # MorphNet
-Using Google's MorphNet to optimize Deep Neural Network
+Using Google's MorphNet to optimize a Deep Neural Network
