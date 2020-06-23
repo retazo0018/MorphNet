@@ -1,8 +1,10 @@
 # MorphNet
 Using Google's MorphNet to optimize a Deep Neural Network
 
-# Problem
-Problem is to optimize the Neural Network for Inverted Pendulum Dataset with respect to Computation (FLOPS) and Model Size.
+# Problem Statement
+* Given the position of cart x, angle of rotation θ, velocity with respec to x, velocity with respect to θ, the problem is to predict the amount of external force (F) required to balance the inverted pendulum without falling down.
+* To optimize the built Deep Neural Network with respect to Computation (FLOPS) and Model Size.
+
 
 # Steps
 * Run inverted_pendulum_data_generation.py to save the data.
